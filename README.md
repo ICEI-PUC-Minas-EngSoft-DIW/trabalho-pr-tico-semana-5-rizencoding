@@ -8,18 +8,19 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rafael Felipe Oliveira 
+- Matricula: 928422
+- Proposta de projeto escolhida: Projeto de agência de turismo
+- Breve descrição sobre seu projeto: Estou projetando uma agência de turismo que irá oferecer pacotes de viagens para os clientes.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Desktop versão responsiva](public/Captura%20de%20tela%202026-04-05%20123034.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![Versão responsiva mobile](public/Captura%20de%20tela%202026-04-05%20123321.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
